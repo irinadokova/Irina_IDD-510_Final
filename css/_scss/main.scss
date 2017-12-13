@@ -1,0 +1,67 @@
+@import '_colors.scss';
+@import '_fonts.scss';
+@import '_urls.scss';
+@import '_mixins.scss';
+
+// Your CSS/SCSS below this line
+
+.header-footer {
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.stuff {
+background-image: url("../images/reaching_hands.png");
+background-repeat: no-repeat;
+background-size: 100%;
+}
+a.category {
+  text-decoration: none;
+}
+
+div#map {
+border: 1px solid #d1d3d4;
+border-radius: 3px;
+}
+
+.footer {
+  background-color: #3e7c94;
+}
+
+.listing {
+  background-color: #3e7c94;
+}
+
+.cat {
+  background-color: #3e7c94;
+}
+
+.img-thumbnail {
+  border: 1px solid #d1d3d4;
+}
+
+div.top-map {
+  border-radius: 3px;
+}
+
+div.heart {
+  border: 1px solid #d1d3d4;
+  border-radius: 3px;
+}
+
+
+.form-wrap {
+  border: 1px solid #d1d3d4;
+  border-radius: 3px;
+}
+
+.forms-grouped {
+  border: 1px solid #d1d3d4;
+  border-radius: 3px;
+}
+
+a.opportunity {
+text-decoration: none;
+}
